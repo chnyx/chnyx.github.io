@@ -1,7 +1,9 @@
 title: [The title of your site]
 description: [A short description of your site's purpose]
-theme: jekyll-theme-Dinky
+theme: Hacker
 
+# jekyll-theme-Dinky
+# ###################
 # Architect
 # Cayman
 # Dinky
